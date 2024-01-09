@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolioPWA/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolioPWA/static/js/main.71a72f9c.js",
+    "static/js/787.a499dac3.chunk.js": "/portfolioPWA/static/js/787.a499dac3.chunk.js",
+    "index.html": "/portfolioPWA/index.html",
+    "main.e6c13ad2.css.map": "/portfolioPWA/static/css/main.e6c13ad2.css.map",
+    "main.71a72f9c.js.map": "/portfolioPWA/static/js/main.71a72f9c.js.map",
+    "787.a499dac3.chunk.js.map": "/portfolioPWA/static/js/787.a499dac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71a72f9c.js"
+  ]
+}
